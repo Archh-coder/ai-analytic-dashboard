@@ -1,5 +1,6 @@
 AI Analytics Dashboard
 This is a clean and responsive analytics dashboard built using React, Tailwind CSS, and Recharts. It was made as an internship assignment and uses AI tools to speed up development.
+
 💻 Tech Stack
 1. React JS
 2. Vite
