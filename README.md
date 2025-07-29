@@ -17,10 +17,10 @@ This is a clean and responsive analytics dashboard built using React, Tailwind C
 5. Deployed and accessible online
 
 🧠 AI Tools Used
-To build this dashboard efficiently, I used some AI tools:
-Cursor: Helped me write and organize code quickly, and resolve errors.
-GitHub Copilot: Gave smart suggestions for component structure, props, and styling.
-ChatGPT: Assisted in debugging, documentation, and folder planning.
+1. To build this dashboard efficiently, I used some AI tools:
+2. Cursor: Helped me write and organize code quickly, and resolve errors.
+3. GitHub Copilot: Gave smart suggestions for component structure, props, and styling.
+4. ChatGPT: Assisted in debugging, documentation, and folder planning.
 
 📁 Project Structure (Basic Overview)
 ai-analytic-dashboard/
