@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+AI Analytics Dashboard
+This is a clean and responsive analytics dashboard built using React, Tailwind CSS, and Recharts. It was made as an internship assignment and uses AI tools to speed up development.
+💻 Tech Stack
+1. React JS
+2. Vite
+3. Tailwind CSS
+4. Recharts
+5. Git & GitHub
+6. Vercel (for deployment)
 
-## Getting Started
+✨ Features
+1. Clean and minimal UI
+2. Fully responsive design
+3. Charts for analytics (dummy data)
+4. Organized folder structure
+5. Deployed and accessible online
 
-First, run the development server:
+🧠 AI Tools Used
+To build this dashboard efficiently, I used some AI tools:
+Cursor: Helped me write and organize code quickly, and resolve errors.
+GitHub Copilot: Gave smart suggestions for component structure, props, and styling.
+ChatGPT: Assisted in debugging, documentation, and folder planning.
 
-```bash
+📁 Project Structure (Basic Overview)
+ai-analytic-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── data/
+│   └── App.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+🚀 How to Run Locally
+1. Clone the repo
+git clone https://github.com/Archh-coder/ai-analytic-dashboard.git
+
+2. Install dependencies
+npm install
+
+3. Start the dev server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🧩 Why I Built This
+This dashboard helped me explore:
+Real-world component structure
+Dashboard layouts and chart integration
+How AI tools can make development faster and cleaner
+Let me know if you'd like a version with images, a "screenshots" section, or credits/portfolio links!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
