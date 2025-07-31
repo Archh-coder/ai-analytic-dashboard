@@ -47,7 +47,7 @@ npm install
 npm run dev
 
 🧩 Why I Built This
-This dashboard helped me explore:
+-This dashboard help me explore:
 Real-world component structure
 Dashboard layouts and chart integration
 How AI tools can make development faster and cleaner
